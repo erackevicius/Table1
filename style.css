@@ -1,0 +1,32 @@
+*	{
+	margin: 0;
+	padding: 0;
+}
+body	{
+	font-family: noto sans;
+	margin: 20px;
+}
+h1 {
+	margin: 30px 0;
+}
+table, tr, th, td {
+	border-collapse: collapse;
+	border: 2px solid gold;
+	font-size: 20px;
+
+}
+td, th {
+	padding: 20px;
+}
+td {
+	padding-right: 150px;
+	background: #37004e;
+	color: white;
+
+}
+th {
+	background: gold;
+}
+tr, .lastname {
+	background: #EBD902;
+}
